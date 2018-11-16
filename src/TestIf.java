@@ -3,7 +3,6 @@
  * author: Jooeys
  * num:000
  */
-/Users/junyi/Project/If_single_structure/src/com/company/TestIf.java
 public class TestIf {
     public static void main(String[] args){
         System.out.println("🎲🎲️投掷骰子游戏🎲：三个骰子之和为15是lucky dog;10-15是try it again;<10是bad luck!");
